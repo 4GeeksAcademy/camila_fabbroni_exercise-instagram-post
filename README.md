@@ -20,7 +20,7 @@ This is the repository you need to open or clone:
 https://github.com/4GeeksAcademy/html-hello
 ```
 
-**Please follow these steps on** [how to start a coding project](https://4geeks.com/lesson/how-to-start-a-project).
+**Please follow these steps on** [How to start a coding project](https://4geeks.com/lesson/how-to-start-a-project).
 
 > 💡 Important: Remember to save and upload your code to GitHub by creating a new repository, updating the remote (`git remote set-url origin <your new url>`), and uploading the code to your new repository using the `add`, `commit` and `push` commands from the git terminal.
 
@@ -36,7 +36,7 @@ Here is a quick visual hint on a good strategy:
 To make your post look like the sample, you will need to use a `Roboto-type` font from Google Fonts and icons from Font Awesome:
 
 - [https://fonts.google.com/](https://fonts.google.com/)
-- [https://fontawesome.com/](https://fontawesome.com/) ⚠️ Important: [import font-awesome from a CDN](https://www.bootstrapcdn.com/fontawesome/) instead of the main website (ask the teacher for details if you need them)
+- [https://fontawesome.com/](https://fontawesome.com/) ⚠️ Important: [import fontawesome from a CDN](https://www.bootstrapcdn.com/fontawesome/) instead of the main website (ask the teacher for details if you need them)
 
 
 ## What to do if you are stuck?
